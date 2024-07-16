@@ -1,0 +1,101 @@
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\Group Assignment\The Foodie Zone\obj\Debug\The Foodie Zone.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\Group Assignment\The Foodie Zone\obj\Debug\The_Foodie_Zone.App_Preview.resources
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\Group Assignment\The Foodie Zone\obj\Debug\The_Foodie_Zone.Browse.resources
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\Group Assignment\The Foodie Zone\obj\Debug\The_Foodie_Zone.Cart.resources
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\Group Assignment\The Foodie Zone\obj\Debug\The_Foodie_Zone.Contact_Us.resources
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\Group Assignment\The Foodie Zone\obj\Debug\The_Foodie_Zone.Home.resources
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\Group Assignment\The Foodie Zone\obj\Debug\The_Foodie_Zone.Login.resources
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\Group Assignment\The Foodie Zone\obj\Debug\The_Foodie_Zone.Profile.resources
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\Group Assignment\The Foodie Zone\obj\Debug\The_Foodie_Zone.Properties.Resources.resources
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\Group Assignment\The Foodie Zone\obj\Debug\The_Foodie_Zone.SignUp.resources
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\Group Assignment\The Foodie Zone\obj\Debug\The Foodie Zone.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - NSBM\1st YR 2nd SEM\C#\Group Assignment\The Foodie Zone\obj\Debug\The Foodie Zone.csproj.CoreCompileInputs.cache
+E:\C# Project\The Foodie Zone\bin\Debug\The Foodie Zone.exe.config
+E:\C# Project\The Foodie Zone\bin\Debug\The Foodie Zone.exe
+E:\C# Project\The Foodie Zone\bin\Debug\The Foodie Zone.pdb
+E:\C# Project\The Foodie Zone\obj\Debug\The Foodie Zone.csproj.AssemblyReference.cache
+E:\C# Project\The Foodie Zone\obj\Debug\The_Foodie_Zone.App_Preview.resources
+E:\C# Project\The Foodie Zone\obj\Debug\The_Foodie_Zone.Browse.resources
+E:\C# Project\The Foodie Zone\obj\Debug\The_Foodie_Zone.Cart.resources
+E:\C# Project\The Foodie Zone\obj\Debug\The_Foodie_Zone.Contact_Us.resources
+E:\C# Project\The Foodie Zone\obj\Debug\The_Foodie_Zone.Home.resources
+E:\C# Project\The Foodie Zone\obj\Debug\The_Foodie_Zone.Login.resources
+E:\C# Project\The Foodie Zone\obj\Debug\The_Foodie_Zone.Profile.resources
+E:\C# Project\The Foodie Zone\obj\Debug\The_Foodie_Zone.Properties.Resources.resources
+E:\C# Project\The Foodie Zone\obj\Debug\The_Foodie_Zone.SignUp.resources
+E:\C# Project\The Foodie Zone\obj\Debug\The Foodie Zone.csproj.GenerateResource.cache
+E:\C# Project\The Foodie Zone\obj\Debug\The Foodie Zone.csproj.CoreCompileInputs.cache
+E:\C# Project\The Foodie Zone\obj\Debug\The Foodie Zone.exe
+E:\C# Project\The Foodie Zone\obj\Debug\The Foodie Zone.pdb
+D:\The Foodie Zone\bin\Debug\The Foodie Zone.exe.config
+D:\The Foodie Zone\bin\Debug\The Foodie Zone.exe
+D:\The Foodie Zone\bin\Debug\The Foodie Zone.pdb
+D:\The Foodie Zone\obj\Debug\The Foodie Zone.csproj.AssemblyReference.cache
+D:\The Foodie Zone\obj\Debug\The_Foodie_Zone.App_Preview.resources
+D:\The Foodie Zone\obj\Debug\The_Foodie_Zone.Browse.resources
+D:\The Foodie Zone\obj\Debug\The_Foodie_Zone.Cart.resources
+D:\The Foodie Zone\obj\Debug\The_Foodie_Zone.Contact_Us.resources
+D:\The Foodie Zone\obj\Debug\The_Foodie_Zone.Home.resources
+D:\The Foodie Zone\obj\Debug\The_Foodie_Zone.Login.resources
+D:\The Foodie Zone\obj\Debug\The_Foodie_Zone.Profile.resources
+D:\The Foodie Zone\obj\Debug\The_Foodie_Zone.Properties.Resources.resources
+D:\The Foodie Zone\obj\Debug\The_Foodie_Zone.SignUp.resources
+D:\The Foodie Zone\obj\Debug\The Foodie Zone.csproj.GenerateResource.cache
+D:\The Foodie Zone\obj\Debug\The Foodie Zone.csproj.CoreCompileInputs.cache
+D:\The Foodie Zone\obj\Debug\The Foodie Zone.exe
+D:\The Foodie Zone\obj\Debug\The Foodie Zone.pdb
+E:\The Foodie Zone\bin\Debug\The Foodie Zone.exe.config
+E:\The Foodie Zone\bin\Debug\The Foodie Zone.exe
+E:\The Foodie Zone\bin\Debug\The Foodie Zone.pdb
+E:\The Foodie Zone\obj\Debug\The Foodie Zone.csproj.AssemblyReference.cache
+E:\The Foodie Zone\obj\Debug\The_Foodie_Zone.App_Preview.resources
+E:\The Foodie Zone\obj\Debug\The_Foodie_Zone.Browse.resources
+E:\The Foodie Zone\obj\Debug\The_Foodie_Zone.Cart.resources
+E:\The Foodie Zone\obj\Debug\The_Foodie_Zone.Contact_Us.resources
+E:\The Foodie Zone\obj\Debug\The_Foodie_Zone.Home.resources
+E:\The Foodie Zone\obj\Debug\The_Foodie_Zone.Login.resources
+E:\The Foodie Zone\obj\Debug\The_Foodie_Zone.Profile.resources
+E:\The Foodie Zone\obj\Debug\The_Foodie_Zone.Properties.Resources.resources
+E:\The Foodie Zone\obj\Debug\The_Foodie_Zone.SignUp.resources
+E:\The Foodie Zone\obj\Debug\The Foodie Zone.csproj.GenerateResource.cache
+E:\The Foodie Zone\obj\Debug\The Foodie Zone.csproj.CoreCompileInputs.cache
+E:\The Foodie Zone\obj\Debug\The Foodie Zone.exe
+E:\The Foodie Zone\obj\Debug\The Foodie Zone.pdb
+D:\The Foodie Zone\obj\Debug\The_Foodie_Zone.Update_Profile.resources
+E:\C# Project\The Foodie Zone\obj\Debug\The_Foodie_Zone.Update_Profile.resources
+E:\The Foodie Zone\obj\Debug\The_Foodie_Zone.Update_Profile.resources
+E:\bla bla\The Foodie Zone\bin\Debug\The Foodie Zone.exe.config
+E:\bla bla\The Foodie Zone\bin\Debug\The Foodie Zone.exe
+E:\bla bla\The Foodie Zone\bin\Debug\The Foodie Zone.pdb
+E:\bla bla\The Foodie Zone\obj\Debug\The Foodie Zone.csproj.AssemblyReference.cache
+E:\bla bla\The Foodie Zone\obj\Debug\The_Foodie_Zone.App_Preview.resources
+E:\bla bla\The Foodie Zone\obj\Debug\The_Foodie_Zone.Browse.resources
+E:\bla bla\The Foodie Zone\obj\Debug\The_Foodie_Zone.Cart.resources
+E:\bla bla\The Foodie Zone\obj\Debug\The_Foodie_Zone.Contact_Us.resources
+E:\bla bla\The Foodie Zone\obj\Debug\The_Foodie_Zone.Home.resources
+E:\bla bla\The Foodie Zone\obj\Debug\The_Foodie_Zone.Login.resources
+E:\bla bla\The Foodie Zone\obj\Debug\The_Foodie_Zone.Profile.resources
+E:\bla bla\The Foodie Zone\obj\Debug\The_Foodie_Zone.Properties.Resources.resources
+E:\bla bla\The Foodie Zone\obj\Debug\The_Foodie_Zone.SignUp.resources
+E:\bla bla\The Foodie Zone\obj\Debug\The_Foodie_Zone.Update_Profile.resources
+E:\bla bla\The Foodie Zone\obj\Debug\The Foodie Zone.csproj.GenerateResource.cache
+E:\bla bla\The Foodie Zone\obj\Debug\The Foodie Zone.csproj.CoreCompileInputs.cache
+E:\bla bla\The Foodie Zone\obj\Debug\The Foodie Zone.exe
+E:\bla bla\The Foodie Zone\obj\Debug\The Foodie Zone.pdb
+E:\Group 33\The Foodie Zone\bin\Debug\The Foodie Zone.exe.config
+E:\Group 33\The Foodie Zone\bin\Debug\The Foodie Zone.exe
+E:\Group 33\The Foodie Zone\obj\Debug\The Foodie Zone.csproj.AssemblyReference.cache
+E:\Group 33\The Foodie Zone\obj\Debug\The_Foodie_Zone.App_Preview.resources
+E:\Group 33\The Foodie Zone\obj\Debug\The_Foodie_Zone.Browse.resources
+E:\Group 33\The Foodie Zone\obj\Debug\The_Foodie_Zone.Cart.resources
+E:\Group 33\The Foodie Zone\obj\Debug\The_Foodie_Zone.Contact_Us.resources
+E:\Group 33\The Foodie Zone\obj\Debug\The_Foodie_Zone.Home.resources
+E:\Group 33\The Foodie Zone\obj\Debug\The_Foodie_Zone.Login.resources
+E:\Group 33\The Foodie Zone\obj\Debug\The_Foodie_Zone.Profile.resources
+E:\Group 33\The Foodie Zone\obj\Debug\The_Foodie_Zone.Properties.Resources.resources
+E:\Group 33\The Foodie Zone\obj\Debug\The_Foodie_Zone.SignUp.resources
+E:\Group 33\The Foodie Zone\obj\Debug\The_Foodie_Zone.Update_Profile.resources
+E:\Group 33\The Foodie Zone\obj\Debug\The Foodie Zone.csproj.GenerateResource.cache
+E:\Group 33\The Foodie Zone\obj\Debug\The Foodie Zone.csproj.CoreCompileInputs.cache
+E:\Group 33\The Foodie Zone\obj\Debug\The Foodie Zone.exe
+E:\Group 33\The Foodie Zone\obj\Debug\The Foodie Zone.pdb
